@@ -1,0 +1,22 @@
+body{
+  background-color: #E9E9E9;
+}
+.container{
+  display: flex;
+}
+#btn{
+  margin-left: 45vw;
+  margin-top: 45vh;
+  height: 51px;
+    width: 134px;
+  background-color: brown;
+  border: none;
+  color: white;
+  box-shadow: 5px 5px 5px #aaaaaa;
+  font-size: 800;
+}
+#tooltip{
+  justify-content: center;
+  margin-top: 25vh;
+  margin-left: -16vh; 
+}
